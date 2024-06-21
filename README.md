@@ -15,3 +15,4 @@ This Python project implements a virtual assistant similar to Siri or Alexa, nam
 ## Prerequisites
 
 Ensure you have Python installed. You can install the required libraries using the following command:
+pip install -m requirements.txt
